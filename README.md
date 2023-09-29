@@ -23,7 +23,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![number_game](https://github.com/Sookchand/The-Number-Guessing-Game/assets/34344439/cb9d56e6-d8a1-474b-8074-7229010ab657)
+
 
 
 ## Tech Stack
